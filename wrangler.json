@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "es-telemetry",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "20565d4b-25ef-42ca-bb36-11a03550bae5",
+			"database_name": "TELEMETRY_DB"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
